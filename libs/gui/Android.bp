@@ -40,7 +40,6 @@ filegroup {
 
 cc_defaults {
     name: "libgui_defaults",
-
     double_loadable: true,
 
     defaults: ["libgui_bufferqueue-defaults"],
